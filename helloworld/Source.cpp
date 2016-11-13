@@ -6,5 +6,6 @@ void main()
 {
 	cout << "hello world";
 	cout << "this is a demo of jenkins.";
+	cout << "how to use jenkins";
 }
 
